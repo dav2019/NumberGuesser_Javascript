@@ -1,1 +1,3 @@
 # NumberGuesser_Javascript
+Tech_Stack
+-Javascript
